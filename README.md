@@ -1,1 +1,1 @@
-# python-newsfeed
+# just-tech-news
