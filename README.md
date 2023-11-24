@@ -18,6 +18,6 @@ https://just-tech-newss-9fcfe257fa1e.herokuapp.com/
 
 ## Usage
 
-![](/images/homepage.png)
+![](/images/home-page.png)
 
-![](/images/dashboard.png)
+![](/images/dashboard-page.png)
